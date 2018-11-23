@@ -1,7 +1,7 @@
 # Retro Game - _Flappy Bird_
 
 ## Team structure and roles 
-+ Yutong Wang u6293753
++ Yutong Wang
 + Xuan Feng
 + Xinli Xu
 
